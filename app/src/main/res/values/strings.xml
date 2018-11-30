@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">pokedex_activity</string>
+    <string name="large_text">
+
+    </string>
+    <string name="action_settings">Settings</string>
+    <string name="pokedex_logo">Pokedex logo</string>
+    <string-array name="options">
+        <item>Pokemon</item>
+        <item>Type Chart</item>
+        <item>Johto Map</item>
+    </string-array>
+</resources>
